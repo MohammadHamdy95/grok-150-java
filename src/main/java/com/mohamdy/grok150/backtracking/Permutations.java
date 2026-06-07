@@ -7,7 +7,7 @@ import java.util.List;
  *
  * <p>Complexity (optimal): Time O(n·n!), Space O(n) extra (excluding output).
  *
- * @see <a href="https://leetcode.com/problems/permutations/">https://leetcode.com/problems/permutations/</a>
+ * @see <a href="https://neetcode.io/solutions/permutations">https://neetcode.io/solutions/permutations</a>
  */
 public class Permutations {
 

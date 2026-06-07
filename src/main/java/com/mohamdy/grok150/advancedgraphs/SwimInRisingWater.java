@@ -5,7 +5,7 @@ package com.mohamdy.grok150.advancedgraphs;
  *
  * <p>Complexity (optimal): Time O(n^2 log n), Space O(n^2).
  *
- * @see <a href="https://leetcode.com/problems/swim-in-rising-water/">https://leetcode.com/problems/swim-in-rising-water/</a>
+ * @see <a href="https://neetcode.io/solutions/swim-in-rising-water">https://neetcode.io/solutions/swim-in-rising-water</a>
  */
 public class SwimInRisingWater {
 

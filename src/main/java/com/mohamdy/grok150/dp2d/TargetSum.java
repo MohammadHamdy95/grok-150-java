@@ -5,7 +5,7 @@ package com.mohamdy.grok150.dp2d;
  *
  * <p>Complexity (optimal): Time O(n·sum), Space O(sum).
  *
- * @see <a href="https://leetcode.com/problems/target-sum/">https://leetcode.com/problems/target-sum/</a>
+ * @see <a href="https://neetcode.io/solutions/target-sum">https://neetcode.io/solutions/target-sum</a>
  */
 public class TargetSum {
 

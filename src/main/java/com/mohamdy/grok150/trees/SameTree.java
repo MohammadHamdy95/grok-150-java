@@ -5,7 +5,7 @@ package com.mohamdy.grok150.trees;
  *
  * <p>Complexity (optimal): Time O(n), Space O(h).
  *
- * @see <a href="https://leetcode.com/problems/same-tree/">https://leetcode.com/problems/same-tree/</a>
+ * @see <a href="https://neetcode.io/solutions/same-tree">https://neetcode.io/solutions/same-tree</a>
  */
 public class SameTree {
 

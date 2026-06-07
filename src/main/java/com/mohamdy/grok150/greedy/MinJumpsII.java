@@ -5,7 +5,7 @@ package com.mohamdy.grok150.greedy;
  *
  * <p>Complexity (optimal): Time O(n), Space O(1).
  *
- * @see <a href="https://leetcode.com/problems/jump-game-ii/">https://leetcode.com/problems/jump-game-ii/</a>
+ * @see <a href="https://neetcode.io/solutions/jump-game-ii">https://neetcode.io/solutions/jump-game-ii</a>
  */
 public class MinJumpsII {
 

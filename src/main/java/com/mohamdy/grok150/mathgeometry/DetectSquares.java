@@ -5,7 +5,7 @@ package com.mohamdy.grok150.mathgeometry;
  *
  * <p>Complexity (optimal): Time O(1) add, O(n) count, Space O(n).
  *
- * @see <a href="https://leetcode.com/problems/detect-squares/">https://leetcode.com/problems/detect-squares/</a>
+ * @see <a href="https://neetcode.io/solutions/detect-squares">https://neetcode.io/solutions/detect-squares</a>
  */
 public class DetectSquares {
 

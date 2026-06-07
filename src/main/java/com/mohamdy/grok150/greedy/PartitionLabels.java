@@ -9,7 +9,7 @@ import java.util.List;
  *
  * <p>Complexity (optimal): Time O(n), Space O(1) (fixed alphabet).
  *
- * @see <a href="https://leetcode.com/problems/partition-labels/">https://leetcode.com/problems/partition-labels/</a>
+ * @see <a href="https://neetcode.io/solutions/partition-labels">https://neetcode.io/solutions/partition-labels</a>
  * ababcbaca//defegdehijhklij
  */
 public class PartitionLabels {

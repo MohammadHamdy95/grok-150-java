@@ -7,7 +7,7 @@ import java.util.List;
  *
  * <p>Complexity (optimal): Time O(n^2), Space O(1) extra (excluding output/sort).
  *
- * @see <a href="https://leetcode.com/problems/3sum/">https://leetcode.com/problems/3sum/</a>
+ * @see <a href="https://neetcode.io/solutions/3sum">https://neetcode.io/solutions/3sum</a>
  */
 public class ThreeSum {
 

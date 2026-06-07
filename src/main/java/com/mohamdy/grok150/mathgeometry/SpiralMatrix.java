@@ -7,7 +7,7 @@ import java.util.List;
  *
  * <p>Complexity (optimal): Time O(m·n), Space O(1) extra (excluding output).
  *
- * @see <a href="https://leetcode.com/problems/spiral-matrix/">https://leetcode.com/problems/spiral-matrix/</a>
+ * @see <a href="https://neetcode.io/solutions/spiral-matrix">https://neetcode.io/solutions/spiral-matrix</a>
  */
 public class SpiralMatrix {
 

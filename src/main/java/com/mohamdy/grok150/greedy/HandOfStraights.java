@@ -5,7 +5,7 @@ package com.mohamdy.grok150.greedy;
  *
  * <p>Complexity (optimal): Time O(n log n), Space O(n).
  *
- * @see <a href="https://leetcode.com/problems/hand-of-straights/">https://leetcode.com/problems/hand-of-straights/</a>
+ * @see <a href="https://neetcode.io/solutions/hand-of-straights">https://neetcode.io/solutions/hand-of-straights</a>
  */
 public class HandOfStraights {
 

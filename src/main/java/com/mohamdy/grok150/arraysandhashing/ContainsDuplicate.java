@@ -5,7 +5,7 @@ package com.mohamdy.grok150.arraysandhashing;
  *
  * <p>Complexity (optimal): Time O(n), Space O(n).
  *
- * @see <a href="https://leetcode.com/problems/contains-duplicate/">https://leetcode.com/problems/contains-duplicate/</a>
+ * @see <a href="https://neetcode.io/solutions/contains-duplicate">https://neetcode.io/solutions/contains-duplicate</a>
  */
 public class ContainsDuplicate {
 

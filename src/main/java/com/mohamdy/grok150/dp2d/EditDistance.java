@@ -5,7 +5,7 @@ package com.mohamdy.grok150.dp2d;
  *
  * <p>Complexity (optimal): Time O(m·n), Space O(n).
  *
- * @see <a href="https://leetcode.com/problems/edit-distance/">https://leetcode.com/problems/edit-distance/</a>
+ * @see <a href="https://neetcode.io/solutions/edit-distance">https://neetcode.io/solutions/edit-distance</a>
  */
 public class EditDistance {
 

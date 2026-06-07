@@ -5,7 +5,7 @@ package com.mohamdy.grok150.dp2d;
  *
  * <p>Complexity (optimal): Time O(m·n), Space O(n).
  *
- * @see <a href="https://leetcode.com/problems/unique-paths/">https://leetcode.com/problems/unique-paths/</a>
+ * @see <a href="https://neetcode.io/solutions/unique-paths">https://neetcode.io/solutions/unique-paths</a>
  */
 public class UniquePaths {
 

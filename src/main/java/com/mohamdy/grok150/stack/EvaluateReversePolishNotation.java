@@ -5,7 +5,7 @@ package com.mohamdy.grok150.stack;
  *
  * <p>Complexity (optimal): Time O(n), Space O(n).
  *
- * @see <a href="https://leetcode.com/problems/evaluate-reverse-polish-notation/">https://leetcode.com/problems/evaluate-reverse-polish-notation/</a>
+ * @see <a href="https://neetcode.io/solutions/evaluate-reverse-polish-notation">https://neetcode.io/solutions/evaluate-reverse-polish-notation</a>
  */
 public class EvaluateReversePolishNotation {
 

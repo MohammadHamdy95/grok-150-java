@@ -7,7 +7,7 @@ import java.util.List;
  *
  * <p>Complexity (optimal): Time O(n·k), Space O(n·k).
  *
- * @see <a href="https://leetcode.com/problems/group-anagrams/">https://leetcode.com/problems/group-anagrams/</a>
+ * @see <a href="https://neetcode.io/solutions/group-anagrams">https://neetcode.io/solutions/group-anagrams</a>
  */
 public class GroupAnagrams {
 

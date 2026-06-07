@@ -9,7 +9,7 @@ import java.util.Set;
  *
  * <p>Complexity (optimal): Time O(n), Space O(n).
  *
- * @see <a href="https://leetcode.com/problems/two-sum/">https://leetcode.com/problems/two-sum/</a>
+ * @see <a href="https://neetcode.io/solutions/two-sum">https://neetcode.io/solutions/two-sum</a>
  */
 public class TwoSum {
     static void main() {

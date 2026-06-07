@@ -5,7 +5,7 @@ package com.mohamdy.grok150.linkedlist;
  *
  * <p>Complexity (optimal): Time O(1) per operation, Space O(capacity).
  *
- * @see <a href="https://leetcode.com/problems/lru-cache/">https://leetcode.com/problems/lru-cache/</a>
+ * @see <a href="https://neetcode.io/solutions/lru-cache">https://neetcode.io/solutions/lru-cache</a>
  */
 public class LRUCache {
 

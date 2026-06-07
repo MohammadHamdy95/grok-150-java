@@ -5,7 +5,7 @@ package com.mohamdy.grok150.heap;
  *
  * <p>Complexity (optimal): Time O(log n) add, O(1) find, Space O(n).
  *
- * @see <a href="https://leetcode.com/problems/find-median-from-data-stream/">https://leetcode.com/problems/find-median-from-data-stream/</a>
+ * @see <a href="https://neetcode.io/solutions/find-median-from-data-stream">https://neetcode.io/solutions/find-median-from-data-stream</a>
  */
 public class MedianFinder {
 

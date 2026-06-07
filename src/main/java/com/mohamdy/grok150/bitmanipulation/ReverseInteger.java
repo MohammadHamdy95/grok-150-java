@@ -5,7 +5,7 @@ package com.mohamdy.grok150.bitmanipulation;
  *
  * <p>Complexity (optimal): Time O(log x) (digit count), Space O(1).
  *
- * @see <a href="https://leetcode.com/problems/reverse-integer/">https://leetcode.com/problems/reverse-integer/</a>
+ * @see <a href="https://neetcode.io/solutions/reverse-integer">https://neetcode.io/solutions/reverse-integer</a>
  */
 public class ReverseInteger {
 

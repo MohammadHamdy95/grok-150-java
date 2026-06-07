@@ -5,7 +5,7 @@ package com.mohamdy.grok150.trees;
  *
  * <p>Complexity (optimal): Time O(n), Space O(h).
  *
- * @see <a href="https://leetcode.com/problems/count-good-nodes-in-binary-tree/">https://leetcode.com/problems/count-good-nodes-in-binary-tree/</a>
+ * @see <a href="https://neetcode.io/solutions/count-good-nodes-in-binary-tree">https://neetcode.io/solutions/count-good-nodes-in-binary-tree</a>
  */
 public class CountGoodNodesInBinaryTree {
 

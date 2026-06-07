@@ -5,7 +5,7 @@ package com.mohamdy.grok150.dp1d;
  *
  * <p>Complexity (optimal): Time O(n), Space O(1).
  *
- * @see <a href="https://leetcode.com/problems/min-cost-climbing-stairs/">https://leetcode.com/problems/min-cost-climbing-stairs/</a>
+ * @see <a href="https://neetcode.io/solutions/min-cost-climbing-stairs">https://neetcode.io/solutions/min-cost-climbing-stairs</a>
  */
 public class MinCostClimbingStairs {
 

@@ -5,7 +5,7 @@ package com.mohamdy.grok150.binarysearch;
  *
  * <p>Complexity (optimal): Time O(log n), Space O(1).
  *
- * @see <a href="https://leetcode.com/problems/binary-search/">https://leetcode.com/problems/binary-search/</a>
+ * @see <a href="https://neetcode.io/solutions/binary-search">https://neetcode.io/solutions/binary-search</a>
  */
 public class BinarySearch {
 

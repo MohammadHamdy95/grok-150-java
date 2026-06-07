@@ -5,7 +5,7 @@ package com.mohamdy.grok150.dp2d;
  *
  * <p>Complexity (optimal): Time O(m·n), Space O(m·n).
  *
- * @see <a href="https://leetcode.com/problems/longest-increasing-path-in-a-matrix/">https://leetcode.com/problems/longest-increasing-path-in-a-matrix/</a>
+ * @see <a href="https://neetcode.io/solutions/longest-increasing-path-in-a-matrix">https://neetcode.io/solutions/longest-increasing-path-in-a-matrix</a>
  */
 public class LongestIncreasingPathInAMatrix {
 

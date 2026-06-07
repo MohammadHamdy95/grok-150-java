@@ -5,7 +5,7 @@ package com.mohamdy.grok150.arraysandhashing;
  *
  * <p>Complexity (optimal): Time O(n), Space O(n).
  *
- * @see <a href="https://leetcode.com/problems/top-k-frequent-elements/">https://leetcode.com/problems/top-k-frequent-elements/</a>
+ * @see <a href="https://neetcode.io/solutions/top-k-frequent-elements">https://neetcode.io/solutions/top-k-frequent-elements</a>
  */
 public class TopKFrequentElements {
 

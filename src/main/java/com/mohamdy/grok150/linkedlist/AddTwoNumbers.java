@@ -5,7 +5,7 @@ package com.mohamdy.grok150.linkedlist;
  *
  * <p>Complexity (optimal): Time O(max(n, m)), Space O(max(n, m)) (output).
  *
- * @see <a href="https://leetcode.com/problems/add-two-numbers/">https://leetcode.com/problems/add-two-numbers/</a>
+ * @see <a href="https://neetcode.io/solutions/add-two-numbers">https://neetcode.io/solutions/add-two-numbers</a>
  */
 public class AddTwoNumbers {
 

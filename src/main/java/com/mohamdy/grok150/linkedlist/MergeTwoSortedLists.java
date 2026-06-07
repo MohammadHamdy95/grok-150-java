@@ -5,7 +5,7 @@ package com.mohamdy.grok150.linkedlist;
  *
  * <p>Complexity (optimal): Time O(n + m), Space O(1).
  *
- * @see <a href="https://leetcode.com/problems/merge-two-sorted-lists/">https://leetcode.com/problems/merge-two-sorted-lists/</a>
+ * @see <a href="https://neetcode.io/solutions/merge-two-sorted-lists">https://neetcode.io/solutions/merge-two-sorted-lists</a>
  */
 public class MergeTwoSortedLists {
 

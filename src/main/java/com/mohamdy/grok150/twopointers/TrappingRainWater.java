@@ -5,7 +5,7 @@ package com.mohamdy.grok150.twopointers;
  *
  * <p>Complexity (optimal): Time O(n), Space O(1).
  *
- * @see <a href="https://leetcode.com/problems/trapping-rain-water/">https://leetcode.com/problems/trapping-rain-water/</a>
+ * @see <a href="https://neetcode.io/solutions/trapping-rain-water">https://neetcode.io/solutions/trapping-rain-water</a>
  */
 public class TrappingRainWater {
 

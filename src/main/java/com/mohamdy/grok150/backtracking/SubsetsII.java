@@ -7,7 +7,7 @@ import java.util.List;
  *
  * <p>Complexity (optimal): Time O(n·2^n), Space O(n) extra (excluding output).
  *
- * @see <a href="https://leetcode.com/problems/subsets-ii/">https://leetcode.com/problems/subsets-ii/</a>
+ * @see <a href="https://neetcode.io/solutions/subsets-ii">https://neetcode.io/solutions/subsets-ii</a>
  */
 public class SubsetsII {
 

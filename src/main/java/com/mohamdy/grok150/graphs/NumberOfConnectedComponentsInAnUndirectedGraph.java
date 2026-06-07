@@ -5,7 +5,7 @@ package com.mohamdy.grok150.graphs;
  *
  * <p>Complexity (optimal): Time O(V + E·α(V)), Space O(V).
  *
- * @see <a href="https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/">https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/</a>
+ * @see <a href="https://neetcode.io/solutions/number-of-connected-components-in-an-undirected-graph">https://neetcode.io/solutions/number-of-connected-components-in-an-undirected-graph</a>
  */
 public class NumberOfConnectedComponentsInAnUndirectedGraph {
 

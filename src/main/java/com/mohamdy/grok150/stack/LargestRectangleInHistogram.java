@@ -5,7 +5,7 @@ package com.mohamdy.grok150.stack;
  *
  * <p>Complexity (optimal): Time O(n), Space O(n).
  *
- * @see <a href="https://leetcode.com/problems/largest-rectangle-in-histogram/">https://leetcode.com/problems/largest-rectangle-in-histogram/</a>
+ * @see <a href="https://neetcode.io/solutions/largest-rectangle-in-histogram">https://neetcode.io/solutions/largest-rectangle-in-histogram</a>
  */
 public class LargestRectangleInHistogram {
 

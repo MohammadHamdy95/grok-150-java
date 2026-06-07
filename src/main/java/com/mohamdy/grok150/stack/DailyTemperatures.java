@@ -5,7 +5,7 @@ package com.mohamdy.grok150.stack;
  *
  * <p>Complexity (optimal): Time O(n), Space O(n).
  *
- * @see <a href="https://leetcode.com/problems/daily-temperatures/">https://leetcode.com/problems/daily-temperatures/</a>
+ * @see <a href="https://neetcode.io/solutions/daily-temperatures">https://neetcode.io/solutions/daily-temperatures</a>
  */
 public class DailyTemperatures {
 

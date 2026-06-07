@@ -5,7 +5,7 @@ package com.mohamdy.grok150.graphs;
  *
  * <p>Complexity (optimal): Time O(m·n), Space O(m·n).
  *
- * @see <a href="https://leetcode.com/problems/surrounded-regions/">https://leetcode.com/problems/surrounded-regions/</a>
+ * @see <a href="https://neetcode.io/solutions/surrounded-regions">https://neetcode.io/solutions/surrounded-regions</a>
  */
 public class SurroundedRegions {
 

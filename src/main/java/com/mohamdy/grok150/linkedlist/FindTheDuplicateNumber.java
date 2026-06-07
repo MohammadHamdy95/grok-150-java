@@ -5,7 +5,7 @@ package com.mohamdy.grok150.linkedlist;
  *
  * <p>Complexity (optimal): Time O(n), Space O(1) (Floyd's cycle detection).
  *
- * @see <a href="https://leetcode.com/problems/find-the-duplicate-number/">https://leetcode.com/problems/find-the-duplicate-number/</a>
+ * @see <a href="https://neetcode.io/solutions/find-the-duplicate-number">https://neetcode.io/solutions/find-the-duplicate-number</a>
  */
 public class FindTheDuplicateNumber {
 

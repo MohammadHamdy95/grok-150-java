@@ -7,7 +7,7 @@ import java.util.List;
  *
  * <p>Complexity (optimal): Time O(4^n / sqrt(n)) (Catalan), Space O(n) extra (excluding output).
  *
- * @see <a href="https://leetcode.com/problems/generate-parentheses/">https://leetcode.com/problems/generate-parentheses/</a>
+ * @see <a href="https://neetcode.io/solutions/generate-parentheses">https://neetcode.io/solutions/generate-parentheses</a>
  */
 public class GenerateParentheses {
 

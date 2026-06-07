@@ -5,7 +5,7 @@ package com.mohamdy.grok150.stack;
  *
  * <p>Complexity (optimal): Time O(n), Space O(n).
  *
- * @see <a href="https://leetcode.com/problems/valid-parentheses/">https://leetcode.com/problems/valid-parentheses/</a>
+ * @see <a href="https://neetcode.io/solutions/valid-parentheses">https://neetcode.io/solutions/valid-parentheses</a>
  */
 public class ValidParentheses {
 

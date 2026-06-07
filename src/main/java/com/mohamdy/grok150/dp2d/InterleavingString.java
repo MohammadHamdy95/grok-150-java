@@ -5,7 +5,7 @@ package com.mohamdy.grok150.dp2d;
  *
  * <p>Complexity (optimal): Time O(m·n), Space O(n).
  *
- * @see <a href="https://leetcode.com/problems/interleaving-string/">https://leetcode.com/problems/interleaving-string/</a>
+ * @see <a href="https://neetcode.io/solutions/interleaving-string">https://neetcode.io/solutions/interleaving-string</a>
  */
 public class InterleavingString {
 

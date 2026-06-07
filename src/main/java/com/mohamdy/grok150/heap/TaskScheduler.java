@@ -5,7 +5,7 @@ package com.mohamdy.grok150.heap;
  *
  * <p>Complexity (optimal): Time O(n), Space O(1) (fixed 26 tasks).
  *
- * @see <a href="https://leetcode.com/problems/task-scheduler/">https://leetcode.com/problems/task-scheduler/</a>
+ * @see <a href="https://neetcode.io/solutions/task-scheduler">https://neetcode.io/solutions/task-scheduler</a>
  */
 public class TaskScheduler {
 

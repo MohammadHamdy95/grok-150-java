@@ -5,7 +5,7 @@ package com.mohamdy.grok150.mathgeometry;
  *
  * <p>Complexity (optimal): Time O(m·n), Space O(m + n).
  *
- * @see <a href="https://leetcode.com/problems/multiply-strings/">https://leetcode.com/problems/multiply-strings/</a>
+ * @see <a href="https://neetcode.io/solutions/multiply-strings">https://neetcode.io/solutions/multiply-strings</a>
  */
 public class MultiplyStrings {
 

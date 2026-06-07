@@ -5,7 +5,7 @@ package com.mohamdy.grok150.mathgeometry;
  *
  * <p>Complexity (optimal): Time O(n^2), Space O(1).
  *
- * @see <a href="https://leetcode.com/problems/rotate-image/">https://leetcode.com/problems/rotate-image/</a>
+ * @see <a href="https://neetcode.io/solutions/rotate-image">https://neetcode.io/solutions/rotate-image</a>
  */
 public class RotateImage {
 

@@ -5,7 +5,7 @@ package com.mohamdy.grok150.graphs;
  *
  * <p>Complexity (optimal): Time O(m·n), Space O(m·n).
  *
- * @see <a href="https://leetcode.com/problems/walls-and-gates/">https://leetcode.com/problems/walls-and-gates/</a>
+ * @see <a href="https://neetcode.io/solutions/walls-and-gates">https://neetcode.io/solutions/walls-and-gates</a>
  */
 public class WallsAndGates {
 

@@ -5,7 +5,7 @@ package com.mohamdy.grok150.trees;
  *
  * <p>Complexity (optimal): Time O(n), Space O(h).
  *
- * @see <a href="https://leetcode.com/problems/invert-binary-tree/">https://leetcode.com/problems/invert-binary-tree/</a>
+ * @see <a href="https://neetcode.io/solutions/invert-binary-tree">https://neetcode.io/solutions/invert-binary-tree</a>
  */
 public class InvertBinaryTree {
 

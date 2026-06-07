@@ -5,7 +5,7 @@ package com.mohamdy.grok150.bitmanipulation;
  *
  * <p>Complexity (optimal): Time O(n), Space O(1).
  *
- * @see <a href="https://leetcode.com/problems/single-number/">https://leetcode.com/problems/single-number/</a>
+ * @see <a href="https://neetcode.io/solutions/single-number">https://neetcode.io/solutions/single-number</a>
  */
 public class SingleNumber {
 

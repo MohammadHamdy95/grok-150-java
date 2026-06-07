@@ -5,7 +5,7 @@ package com.mohamdy.grok150.tries;
  *
  * <p>Complexity (optimal): Time O(L) per operation, Space O(total characters inserted).
  *
- * @see <a href="https://leetcode.com/problems/implement-trie-prefix-tree/">https://leetcode.com/problems/implement-trie-prefix-tree/</a>
+ * @see <a href="https://neetcode.io/solutions/implement-trie-prefix-tree">https://neetcode.io/solutions/implement-trie-prefix-tree</a>
  */
 public class Trie {
 

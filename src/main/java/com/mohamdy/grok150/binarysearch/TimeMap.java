@@ -5,7 +5,7 @@ package com.mohamdy.grok150.binarysearch;
  *
  * <p>Complexity (optimal): Time O(1) set, O(log n) get, Space O(n).
  *
- * @see <a href="https://leetcode.com/problems/time-based-key-value-store/">https://leetcode.com/problems/time-based-key-value-store/</a>
+ * @see <a href="https://neetcode.io/solutions/time-based-key-value-store">https://neetcode.io/solutions/time-based-key-value-store</a>
  */
 public class TimeMap {
 

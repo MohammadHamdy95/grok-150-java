@@ -5,7 +5,7 @@ package com.mohamdy.grok150.intervals;
  *
  * <p>Complexity (optimal): Time O(n log n), Space O(n).
  *
- * @see <a href="https://leetcode.com/problems/meeting-rooms-ii/">https://leetcode.com/problems/meeting-rooms-ii/</a>
+ * @see <a href="https://neetcode.io/solutions/meeting-rooms-ii">https://neetcode.io/solutions/meeting-rooms-ii</a>
  */
 public class MeetingRoomsII {
 

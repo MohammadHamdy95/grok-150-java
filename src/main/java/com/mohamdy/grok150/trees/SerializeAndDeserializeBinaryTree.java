@@ -5,7 +5,7 @@ package com.mohamdy.grok150.trees;
  *
  * <p>Complexity (optimal): Time O(n), Space O(n).
  *
- * @see <a href="https://leetcode.com/problems/serialize-and-deserialize-binary-tree/">https://leetcode.com/problems/serialize-and-deserialize-binary-tree/</a>
+ * @see <a href="https://neetcode.io/solutions/serialize-and-deserialize-binary-tree">https://neetcode.io/solutions/serialize-and-deserialize-binary-tree</a>
  */
 public class SerializeAndDeserializeBinaryTree {
 

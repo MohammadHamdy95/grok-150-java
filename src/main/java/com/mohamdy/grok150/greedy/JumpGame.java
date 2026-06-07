@@ -5,7 +5,7 @@ package com.mohamdy.grok150.greedy;
  *
  * <p>Complexity (optimal): Time O(n), Space O(1).
  *
- * @see <a href="https://leetcode.com/problems/jump-game/">https://leetcode.com/problems/jump-game/</a>
+ * @see <a href="https://neetcode.io/solutions/jump-game">https://neetcode.io/solutions/jump-game</a>
  */
 public class JumpGame {
 

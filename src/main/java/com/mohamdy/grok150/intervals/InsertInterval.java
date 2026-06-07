@@ -5,7 +5,7 @@ package com.mohamdy.grok150.intervals;
  *
  * <p>Complexity (optimal): Time O(n), Space O(n).
  *
- * @see <a href="https://leetcode.com/problems/insert-interval/">https://leetcode.com/problems/insert-interval/</a>
+ * @see <a href="https://neetcode.io/solutions/insert-interval">https://neetcode.io/solutions/insert-interval</a>
  */
 public class InsertInterval {
 

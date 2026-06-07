@@ -5,7 +5,7 @@ package com.mohamdy.grok150.bitmanipulation;
  *
  * <p>Complexity (optimal): Time O(1), Space O(1).
  *
- * @see <a href="https://leetcode.com/problems/sum-of-two-integers/">https://leetcode.com/problems/sum-of-two-integers/</a>
+ * @see <a href="https://neetcode.io/solutions/sum-of-two-integers">https://neetcode.io/solutions/sum-of-two-integers</a>
  */
 public class SumOfTwoIntegers {
 

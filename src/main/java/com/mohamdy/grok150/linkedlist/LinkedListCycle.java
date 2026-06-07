@@ -5,7 +5,7 @@ package com.mohamdy.grok150.linkedlist;
  *
  * <p>Complexity (optimal): Time O(n), Space O(1).
  *
- * @see <a href="https://leetcode.com/problems/linked-list-cycle/">https://leetcode.com/problems/linked-list-cycle/</a>
+ * @see <a href="https://neetcode.io/solutions/linked-list-cycle">https://neetcode.io/solutions/linked-list-cycle</a>
  */
 public class LinkedListCycle {
 

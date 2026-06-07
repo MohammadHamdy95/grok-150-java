@@ -5,7 +5,7 @@ package com.mohamdy.grok150.trees;
  *
  * <p>Complexity (optimal): Time O(n), Space O(h).
  *
- * @see <a href="https://leetcode.com/problems/maximum-depth-of-binary-tree/">https://leetcode.com/problems/maximum-depth-of-binary-tree/</a>
+ * @see <a href="https://neetcode.io/solutions/maximum-depth-of-binary-tree">https://neetcode.io/solutions/maximum-depth-of-binary-tree</a>
  */
 public class MaximumDepthOfBinaryTree {
 

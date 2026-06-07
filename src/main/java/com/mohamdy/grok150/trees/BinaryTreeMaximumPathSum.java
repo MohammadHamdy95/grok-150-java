@@ -5,7 +5,7 @@ package com.mohamdy.grok150.trees;
  *
  * <p>Complexity (optimal): Time O(n), Space O(h).
  *
- * @see <a href="https://leetcode.com/problems/binary-tree-maximum-path-sum/">https://leetcode.com/problems/binary-tree-maximum-path-sum/</a>
+ * @see <a href="https://neetcode.io/solutions/binary-tree-maximum-path-sum">https://neetcode.io/solutions/binary-tree-maximum-path-sum</a>
  */
 public class BinaryTreeMaximumPathSum {
 

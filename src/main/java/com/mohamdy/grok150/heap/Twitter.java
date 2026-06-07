@@ -7,7 +7,7 @@ import java.util.List;
  *
  * <p>Complexity (optimal): Time O(f + t log t) per news feed, Space O(users + tweets).
  *
- * @see <a href="https://leetcode.com/problems/design-twitter/">https://leetcode.com/problems/design-twitter/</a>
+ * @see <a href="https://neetcode.io/solutions/design-twitter">https://neetcode.io/solutions/design-twitter</a>
  */
 public class Twitter {
 

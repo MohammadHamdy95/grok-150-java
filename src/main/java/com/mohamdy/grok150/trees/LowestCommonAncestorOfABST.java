@@ -5,7 +5,7 @@ package com.mohamdy.grok150.trees;
  *
  * <p>Complexity (optimal): Time O(h), Space O(1).
  *
- * @see <a href="https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/">https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/</a>
+ * @see <a href="https://neetcode.io/solutions/lowest-common-ancestor-of-a-binary-search-tree">https://neetcode.io/solutions/lowest-common-ancestor-of-a-binary-search-tree</a>
  */
 public class LowestCommonAncestorOfABST {
 

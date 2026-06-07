@@ -5,7 +5,7 @@ package com.mohamdy.grok150.slidingwindow;
  *
  * <p>Complexity (optimal): Time O(n), Space O(k).
  *
- * @see <a href="https://leetcode.com/problems/sliding-window-maximum/">https://leetcode.com/problems/sliding-window-maximum/</a>
+ * @see <a href="https://neetcode.io/solutions/sliding-window-maximum">https://neetcode.io/solutions/sliding-window-maximum</a>
  */
 public class SlidingWindowMaximum {
 
