@@ -1,5 +1,10 @@
 package com.mohamdy.blind75.greedy;
 
+/**
+ * LeetCode 55. Jump Game &mdash; Medium
+ *
+ * @see <a href="https://leetcode.com/problems/jump-game/">https://leetcode.com/problems/jump-game/</a>
+ */
 public class JumpGame {
 
     public boolean canJump(int[] nums) {

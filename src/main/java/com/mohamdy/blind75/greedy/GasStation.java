@@ -1,5 +1,10 @@
 package com.mohamdy.blind75.greedy;
 
+/**
+ * LeetCode 134. Gas Station &mdash; Medium
+ *
+ * @see <a href="https://leetcode.com/problems/gas-station/">https://leetcode.com/problems/gas-station/</a>
+ */
 public class GasStation {
 
     public int canCompleteCircuit(int[] gas, int[] cost) {

@@ -1,5 +1,10 @@
 package com.mohamdy.blind75.trees;
 
+/**
+ * LeetCode 226. Invert Binary Tree &mdash; Easy
+ *
+ * @see <a href="https://leetcode.com/problems/invert-binary-tree/">https://leetcode.com/problems/invert-binary-tree/</a>
+ */
 public class InvertBinaryTree {
 
     public TreeNode invertTree(TreeNode root) {

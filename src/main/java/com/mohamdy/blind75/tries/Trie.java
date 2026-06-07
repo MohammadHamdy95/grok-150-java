@@ -1,5 +1,10 @@
 package com.mohamdy.blind75.tries;
 
+/**
+ * LeetCode 208. Implement Trie (Prefix Tree) &mdash; Medium
+ *
+ * @see <a href="https://leetcode.com/problems/implement-trie-prefix-tree/">https://leetcode.com/problems/implement-trie-prefix-tree/</a>
+ */
 public class Trie {
 
     public Trie() {

@@ -4,6 +4,11 @@ import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Set;
 
+/**
+ * LeetCode 1. Two Sum &mdash; Easy
+ *
+ * @see <a href="https://leetcode.com/problems/two-sum/">https://leetcode.com/problems/two-sum/</a>
+ */
 public class TwoSum {
     static void main() {
         TwoSum twoSum = new TwoSum();

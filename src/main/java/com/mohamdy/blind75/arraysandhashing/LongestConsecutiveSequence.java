@@ -4,6 +4,11 @@ import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Set;
 
+/**
+ * LeetCode 128. Longest Consecutive Sequence &mdash; Medium
+ *
+ * @see <a href="https://leetcode.com/problems/longest-consecutive-sequence/">https://leetcode.com/problems/longest-consecutive-sequence/</a>
+ */
 public class LongestConsecutiveSequence {
 
 

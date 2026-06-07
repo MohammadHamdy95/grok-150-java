@@ -1,5 +1,10 @@
 package com.mohamdy.blind75.greedy;
 
+/**
+ * LeetCode 45. Jump Game II &mdash; Medium
+ *
+ * @see <a href="https://leetcode.com/problems/jump-game-ii/">https://leetcode.com/problems/jump-game-ii/</a>
+ */
 public class MinJumpsII {
 
     public int jump(int[] nums) {

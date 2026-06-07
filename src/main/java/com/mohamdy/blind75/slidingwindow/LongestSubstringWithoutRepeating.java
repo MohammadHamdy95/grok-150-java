@@ -3,6 +3,11 @@ package com.mohamdy.blind75.slidingwindow;
 import java.util.HashSet;
 import java.util.Set;
 
+/**
+ * LeetCode 3. Longest Substring Without Repeating Characters &mdash; Medium
+ *
+ * @see <a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/">https://leetcode.com/problems/longest-substring-without-repeating-characters/</a>
+ */
 public class LongestSubstringWithoutRepeating {
 
 
