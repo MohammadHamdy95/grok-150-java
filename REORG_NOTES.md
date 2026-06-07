@@ -31,8 +31,8 @@ JUnit tests for everything.
   and test files; directories moved with `git mv`). No cross-package imports existed, so
   only `package` declarations changed.
 - **Every problem class now carries a class-level Javadoc** with the LeetCode number,
-  title, difficulty, optimal time/space complexity, and a clickable NeetCode solution link
-  (`https://neetcode.io/solutions/<slug>`). Example:
+  title, difficulty, optimal time/space complexity, and a clickable NeetCode question-page link
+  (`https://neetcode.io/problems/<neetcode-slug>/question`). Example:
   `LeetCode 1. Two Sum — Easy` / `Complexity (optimal): Time O(n), Space O(n)` / `@see` link.
   `uncategorized/MinLength` and the data-structure helpers are intentionally not annotated.
   Complexities describe the *expected optimal* solution (not the unimplemented bodies); a
