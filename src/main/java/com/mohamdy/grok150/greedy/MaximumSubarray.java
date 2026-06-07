@@ -4,20 +4,23 @@ package com.mohamdy.grok150.greedy;
  * LeetCode 53. Maximum Subarray &mdash; Medium
  *
  * <p>Complexity (optimal): Time O(n), Space O(1).
+ * //[-2,1,-3,4,-1,2,1,-5,4]
  *
  * @see <a href="https://leetcode.com/problems/maximum-subarray/">https://leetcode.com/problems/maximum-subarray/</a>
  */
 public class MaximumSubarray {
 
     public int maxSubArray(int[] nums) {
-        int runningMax = -1001;
-        int overAllMax = -1001;
-        for (int i = 0; i < nums.length; i++) {
-            runningMax = Math.max(nums[i], runningMax + nums[i]);
+        int runningMax = nums[0];
+        int overAllMax = nums[0];
+
+        for (int i = 1; i < nums.length; i++) {
+            int num = nums[i];
+
+            runningMax = Math.max(num, runningMax + num);
             overAllMax = Math.max(overAllMax, runningMax);
         }
 
         return overAllMax;
-
     }
 }
