@@ -5,7 +5,7 @@ package com.mohamdy.grok150.arraysandhashing;
  *
  * <p>Complexity (optimal): Time O(n), Space O(1) extra (excluding output).
  *
- * @see <a href="https://neetcode.io/solutions/product-of-array-except-self">https://neetcode.io/solutions/product-of-array-except-self</a>
+ * @see <a href="https://neetcode.io/problems/products-of-array-discluding-self/question">https://neetcode.io/problems/products-of-array-discluding-self/question</a>
  */
 public class ProductOfArrayExceptSelf {
 

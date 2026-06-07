@@ -5,7 +5,7 @@ package com.mohamdy.grok150.binarysearch;
  *
  * <p>Complexity (optimal): Time O(n log m) (m = max pile), Space O(1).
  *
- * @see <a href="https://neetcode.io/solutions/koko-eating-bananas">https://neetcode.io/solutions/koko-eating-bananas</a>
+ * @see <a href="https://neetcode.io/problems/eating-bananas/question">https://neetcode.io/problems/eating-bananas/question</a>
  */
 public class KokoEatingBananas {
 

@@ -8,7 +8,7 @@ import java.util.Queue;
  *
  * <p>Complexity (optimal): Time O(n), Space O(1).
  *
- * @see <a href="https://neetcode.io/solutions/valid-parenthesis-string">https://neetcode.io/solutions/valid-parenthesis-string</a>
+ * @see <a href="https://neetcode.io/problems/valid-parenthesis-string/question">https://neetcode.io/problems/valid-parenthesis-string/question</a>
  */
 public class ValidParenthesisString {
 

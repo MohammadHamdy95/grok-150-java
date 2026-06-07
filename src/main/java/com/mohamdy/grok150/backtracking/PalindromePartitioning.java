@@ -7,7 +7,7 @@ import java.util.List;
  *
  * <p>Complexity (optimal): Time O(n·2^n), Space O(n) recursion depth.
  *
- * @see <a href="https://neetcode.io/solutions/palindrome-partitioning">https://neetcode.io/solutions/palindrome-partitioning</a>
+ * @see <a href="https://neetcode.io/problems/palindrome-partitioning/question">https://neetcode.io/problems/palindrome-partitioning/question</a>
  */
 public class PalindromePartitioning {
 

@@ -5,7 +5,7 @@ package com.mohamdy.grok150.tries;
  *
  * <p>Complexity (optimal): Time O(L) add; O(26^L) search worst case (wildcards), Space O(total characters inserted).
  *
- * @see <a href="https://neetcode.io/solutions/design-add-and-search-words-data-structure">https://neetcode.io/solutions/design-add-and-search-words-data-structure</a>
+ * @see <a href="https://neetcode.io/problems/design-word-search-data-structure/question">https://neetcode.io/problems/design-word-search-data-structure/question</a>
  */
 public class WordDictionary {
 

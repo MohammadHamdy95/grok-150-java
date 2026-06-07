@@ -5,7 +5,7 @@ package com.mohamdy.grok150.heap;
  *
  * <p>Complexity (optimal): Time O(n) average (quickselect), Space O(1).
  *
- * @see <a href="https://neetcode.io/solutions/kth-largest-element-in-an-array">https://neetcode.io/solutions/kth-largest-element-in-an-array</a>
+ * @see <a href="https://neetcode.io/problems/kth-largest-element-in-an-array/question">https://neetcode.io/problems/kth-largest-element-in-an-array/question</a>
  */
 public class KthLargestElementInAnArray {
 

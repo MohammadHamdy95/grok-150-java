@@ -7,7 +7,7 @@ import java.util.List;
  *
  * <p>Complexity (optimal): Time O(n), Space O(n).
  *
- * @see <a href="https://neetcode.io/solutions/encode-and-decode-strings">https://neetcode.io/solutions/encode-and-decode-strings</a>
+ * @see <a href="https://neetcode.io/problems/string-encode-and-decode/question">https://neetcode.io/problems/string-encode-and-decode/question</a>
  */
 public class EncodeAndDecodeStrings {
 

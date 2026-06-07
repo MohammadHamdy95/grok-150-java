@@ -5,7 +5,7 @@ package com.mohamdy.grok150.intervals;
  *
  * <p>Complexity (optimal): Time O(n log n), Space O(n).
  *
- * @see <a href="https://neetcode.io/solutions/merge-intervals">https://neetcode.io/solutions/merge-intervals</a>
+ * @see <a href="https://neetcode.io/problems/merge-intervals/question">https://neetcode.io/problems/merge-intervals/question</a>
  */
 public class MergeIntervals {
 

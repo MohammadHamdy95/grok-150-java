@@ -5,7 +5,7 @@ package com.mohamdy.grok150.heap;
  *
  * <p>Complexity (optimal): Time O(n log n), Space O(n).
  *
- * @see <a href="https://neetcode.io/solutions/last-stone-weight">https://neetcode.io/solutions/last-stone-weight</a>
+ * @see <a href="https://neetcode.io/problems/last-stone-weight/question">https://neetcode.io/problems/last-stone-weight/question</a>
  */
 public class LastStoneWeight {
 

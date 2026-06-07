@@ -5,7 +5,7 @@ package com.mohamdy.grok150.dp2d;
  *
  * <p>Complexity (optimal): Time O(n), Space O(1).
  *
- * @see <a href="https://neetcode.io/solutions/best-time-to-buy-and-sell-stock-with-cooldown">https://neetcode.io/solutions/best-time-to-buy-and-sell-stock-with-cooldown</a>
+ * @see <a href="https://neetcode.io/problems/buy-and-sell-crypto-with-cooldown/question">https://neetcode.io/problems/buy-and-sell-crypto-with-cooldown/question</a>
  */
 public class BestTimeToBuyAndSellStockWithCooldown {
 

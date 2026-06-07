@@ -7,7 +7,7 @@ import java.util.List;
  *
  * <p>Complexity (optimal): Time O(E log E), Space O(E).
  *
- * @see <a href="https://neetcode.io/solutions/reconstruct-itinerary">https://neetcode.io/solutions/reconstruct-itinerary</a>
+ * @see <a href="https://neetcode.io/problems/reconstruct-flight-path/question">https://neetcode.io/problems/reconstruct-flight-path/question</a>
  */
 public class ReconstructItinerary {
 

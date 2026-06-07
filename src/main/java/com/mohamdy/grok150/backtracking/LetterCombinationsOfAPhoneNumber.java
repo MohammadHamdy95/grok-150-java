@@ -7,7 +7,7 @@ import java.util.List;
  *
  * <p>Complexity (optimal): Time O(n·4^n), Space O(n) recursion depth.
  *
- * @see <a href="https://neetcode.io/solutions/letter-combinations-of-a-phone-number">https://neetcode.io/solutions/letter-combinations-of-a-phone-number</a>
+ * @see <a href="https://neetcode.io/problems/combinations-of-a-phone-number/question">https://neetcode.io/problems/combinations-of-a-phone-number/question</a>
  */
 public class LetterCombinationsOfAPhoneNumber {
 

@@ -5,7 +5,7 @@ package com.mohamdy.grok150.arraysandhashing;
  *
  * <p>Complexity (optimal): Time O(1) (fixed 9×9 board), Space O(1).
  *
- * @see <a href="https://neetcode.io/solutions/valid-sudoku">https://neetcode.io/solutions/valid-sudoku</a>
+ * @see <a href="https://neetcode.io/problems/valid-sudoku/question">https://neetcode.io/problems/valid-sudoku/question</a>
  */
 public class ValidSudoku {
 

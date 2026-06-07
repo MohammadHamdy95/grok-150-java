@@ -5,7 +5,7 @@ package com.mohamdy.grok150.trees;
  *
  * <p>Complexity (optimal): Time O(n·m), Space O(h).
  *
- * @see <a href="https://neetcode.io/solutions/subtree-of-another-tree">https://neetcode.io/solutions/subtree-of-another-tree</a>
+ * @see <a href="https://neetcode.io/problems/subtree-of-a-binary-tree/question">https://neetcode.io/problems/subtree-of-a-binary-tree/question</a>
  */
 public class SubtreeOfAnotherTree {
 

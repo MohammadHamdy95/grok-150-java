@@ -5,7 +5,7 @@ package com.mohamdy.grok150.graphs;
  *
  * <p>Complexity (optimal): Time O(m·n), Space O(m·n).
  *
- * @see <a href="https://neetcode.io/solutions/rotting-oranges">https://neetcode.io/solutions/rotting-oranges</a>
+ * @see <a href="https://neetcode.io/problems/rotting-fruit/question">https://neetcode.io/problems/rotting-fruit/question</a>
  */
 public class RottingOranges {
 

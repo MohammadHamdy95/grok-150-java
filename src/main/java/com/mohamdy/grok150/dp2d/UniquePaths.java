@@ -5,7 +5,7 @@ package com.mohamdy.grok150.dp2d;
  *
  * <p>Complexity (optimal): Time O(m·n), Space O(n).
  *
- * @see <a href="https://neetcode.io/solutions/unique-paths">https://neetcode.io/solutions/unique-paths</a>
+ * @see <a href="https://neetcode.io/problems/count-paths/question">https://neetcode.io/problems/count-paths/question</a>
  */
 public class UniquePaths {
 

@@ -5,7 +5,7 @@ package com.mohamdy.grok150.slidingwindow;
  *
  * <p>Complexity (optimal): Time O(n), Space O(1) (fixed alphabet).
  *
- * @see <a href="https://neetcode.io/solutions/longest-repeating-character-replacement">https://neetcode.io/solutions/longest-repeating-character-replacement</a>
+ * @see <a href="https://neetcode.io/problems/longest-repeating-substring-with-replacement/question">https://neetcode.io/problems/longest-repeating-substring-with-replacement/question</a>
  */
 public class LongestRepeatingCharacterReplacement {
 

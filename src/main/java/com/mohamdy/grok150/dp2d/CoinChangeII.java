@@ -5,7 +5,7 @@ package com.mohamdy.grok150.dp2d;
  *
  * <p>Complexity (optimal): Time O(amount·coins), Space O(amount).
  *
- * @see <a href="https://neetcode.io/solutions/coin-change-ii">https://neetcode.io/solutions/coin-change-ii</a>
+ * @see <a href="https://neetcode.io/problems/coin-change-ii/question">https://neetcode.io/problems/coin-change-ii/question</a>
  */
 public class CoinChangeII {
 

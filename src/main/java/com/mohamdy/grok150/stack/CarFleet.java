@@ -5,7 +5,7 @@ package com.mohamdy.grok150.stack;
  *
  * <p>Complexity (optimal): Time O(n log n), Space O(n).
  *
- * @see <a href="https://neetcode.io/solutions/car-fleet">https://neetcode.io/solutions/car-fleet</a>
+ * @see <a href="https://neetcode.io/problems/car-fleet/question">https://neetcode.io/problems/car-fleet/question</a>
  */
 public class CarFleet {
 

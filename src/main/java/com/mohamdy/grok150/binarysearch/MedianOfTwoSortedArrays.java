@@ -5,7 +5,7 @@ package com.mohamdy.grok150.binarysearch;
  *
  * <p>Complexity (optimal): Time O(log(min(m, n))), Space O(1).
  *
- * @see <a href="https://neetcode.io/solutions/median-of-two-sorted-arrays">https://neetcode.io/solutions/median-of-two-sorted-arrays</a>
+ * @see <a href="https://neetcode.io/problems/median-of-two-sorted-arrays/question">https://neetcode.io/problems/median-of-two-sorted-arrays/question</a>
  */
 public class MedianOfTwoSortedArrays {
 

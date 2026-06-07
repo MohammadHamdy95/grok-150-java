@@ -5,7 +5,7 @@ package com.mohamdy.grok150.mathgeometry;
  *
  * <p>Complexity (optimal): Time O(log n), Space O(1) (Floyd's cycle detection).
  *
- * @see <a href="https://neetcode.io/solutions/happy-number">https://neetcode.io/solutions/happy-number</a>
+ * @see <a href="https://neetcode.io/problems/non-cyclical-number/question">https://neetcode.io/problems/non-cyclical-number/question</a>
  */
 public class HappyNumber {
 

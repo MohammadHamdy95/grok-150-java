@@ -5,7 +5,7 @@ package com.mohamdy.grok150.bitmanipulation;
  *
  * <p>Complexity (optimal): Time O(1) (32-bit), Space O(1).
  *
- * @see <a href="https://neetcode.io/solutions/number-of-1-bits">https://neetcode.io/solutions/number-of-1-bits</a>
+ * @see <a href="https://neetcode.io/problems/number-of-one-bits/question">https://neetcode.io/problems/number-of-one-bits/question</a>
  */
 public class NumberOf1Bits {
 

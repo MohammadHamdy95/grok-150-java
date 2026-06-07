@@ -5,7 +5,7 @@ package com.mohamdy.grok150.dp2d;
  *
  * <p>Complexity (optimal): Time O(m·n), Space O(m·n) (O(min(m, n)) optimized).
  *
- * @see <a href="https://neetcode.io/solutions/longest-common-subsequence">https://neetcode.io/solutions/longest-common-subsequence</a>
+ * @see <a href="https://neetcode.io/problems/longest-common-subsequence/question">https://neetcode.io/problems/longest-common-subsequence/question</a>
  */
 public class LongestCommonSubsequence {
 

@@ -5,7 +5,7 @@ package com.mohamdy.grok150.linkedlist;
  *
  * <p>Complexity (optimal): Time O(n), Space O(1).
  *
- * @see <a href="https://neetcode.io/solutions/reverse-nodes-in-k-group">https://neetcode.io/solutions/reverse-nodes-in-k-group</a>
+ * @see <a href="https://neetcode.io/problems/reverse-nodes-in-k-group/question">https://neetcode.io/problems/reverse-nodes-in-k-group/question</a>
  */
 public class ReverseNodesInKGroup {
 

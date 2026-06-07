@@ -5,7 +5,7 @@ package com.mohamdy.grok150.heap;
  *
  * <p>Complexity (optimal): Time O(n log k), Space O(k).
  *
- * @see <a href="https://neetcode.io/solutions/k-closest-points-to-origin">https://neetcode.io/solutions/k-closest-points-to-origin</a>
+ * @see <a href="https://neetcode.io/problems/k-closest-points-to-origin/question">https://neetcode.io/problems/k-closest-points-to-origin/question</a>
  */
 public class KClosestPointsToOrigin {
 

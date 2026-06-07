@@ -5,7 +5,7 @@ package com.mohamdy.grok150.linkedlist;
  *
  * <p>Complexity (optimal): Time O(n), Space O(1).
  *
- * @see <a href="https://neetcode.io/solutions/reverse-linked-list">https://neetcode.io/solutions/reverse-linked-list</a>
+ * @see <a href="https://neetcode.io/problems/reverse-a-linked-list/question">https://neetcode.io/problems/reverse-a-linked-list/question</a>
  */
 public class ReverseLinkedList {
 

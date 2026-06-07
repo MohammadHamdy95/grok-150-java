@@ -5,7 +5,7 @@ package com.mohamdy.grok150.slidingwindow;
  *
  * <p>Complexity (optimal): Time O(n), Space O(1).
  *
- * @see <a href="https://neetcode.io/solutions/best-time-to-buy-and-sell-stock">https://neetcode.io/solutions/best-time-to-buy-and-sell-stock</a>
+ * @see <a href="https://neetcode.io/problems/buy-and-sell-crypto/question">https://neetcode.io/problems/buy-and-sell-crypto/question</a>
  */
 public class BestTimeToBuyAndSellStock {
 

@@ -7,7 +7,7 @@ import java.util.List;
  *
  * <p>Complexity (optimal): Time O(n^2·k) (k = avg word length), Space O(n).
  *
- * @see <a href="https://neetcode.io/solutions/word-break">https://neetcode.io/solutions/word-break</a>
+ * @see <a href="https://neetcode.io/problems/word-break/question">https://neetcode.io/problems/word-break/question</a>
  */
 public class WordBreak {
 

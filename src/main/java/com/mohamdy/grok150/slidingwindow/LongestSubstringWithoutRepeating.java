@@ -8,7 +8,7 @@ import java.util.Set;
  *
  * <p>Complexity (optimal): Time O(n), Space O(min(n, alphabet)).
  *
- * @see <a href="https://neetcode.io/solutions/longest-substring-without-repeating-characters">https://neetcode.io/solutions/longest-substring-without-repeating-characters</a>
+ * @see <a href="https://neetcode.io/problems/longest-substring-without-duplicates/question">https://neetcode.io/problems/longest-substring-without-duplicates/question</a>
  */
 public class LongestSubstringWithoutRepeating {
 

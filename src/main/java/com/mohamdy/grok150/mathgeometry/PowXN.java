@@ -5,7 +5,7 @@ package com.mohamdy.grok150.mathgeometry;
  *
  * <p>Complexity (optimal): Time O(log n), Space O(1).
  *
- * @see <a href="https://neetcode.io/solutions/powx-n">https://neetcode.io/solutions/powx-n</a>
+ * @see <a href="https://neetcode.io/problems/pow-x-n/question">https://neetcode.io/problems/pow-x-n/question</a>
  */
 public class PowXN {
 

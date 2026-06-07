@@ -5,7 +5,7 @@ package com.mohamdy.grok150.arraysandhashing;
  *
  * <p>Complexity (optimal): Time O(n), Space O(1) (fixed alphabet).
  *
- * @see <a href="https://neetcode.io/solutions/valid-anagram">https://neetcode.io/solutions/valid-anagram</a>
+ * @see <a href="https://neetcode.io/problems/is-anagram/question">https://neetcode.io/problems/is-anagram/question</a>
  */
 public class ValidAnagram {
 

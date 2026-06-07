@@ -5,7 +5,7 @@ package com.mohamdy.grok150.trees;
  *
  * <p>Complexity (optimal): Time O(h + k), Space O(h).
  *
- * @see <a href="https://neetcode.io/solutions/kth-smallest-element-in-a-bst">https://neetcode.io/solutions/kth-smallest-element-in-a-bst</a>
+ * @see <a href="https://neetcode.io/problems/kth-smallest-integer-in-bst/question">https://neetcode.io/problems/kth-smallest-integer-in-bst/question</a>
  */
 public class KthSmallestElementInABST {
 

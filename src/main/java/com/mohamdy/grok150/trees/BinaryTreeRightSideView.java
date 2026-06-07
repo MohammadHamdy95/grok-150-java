@@ -7,7 +7,7 @@ import java.util.List;
  *
  * <p>Complexity (optimal): Time O(n), Space O(n).
  *
- * @see <a href="https://neetcode.io/solutions/binary-tree-right-side-view">https://neetcode.io/solutions/binary-tree-right-side-view</a>
+ * @see <a href="https://neetcode.io/problems/binary-tree-right-side-view/question">https://neetcode.io/problems/binary-tree-right-side-view/question</a>
  */
 public class BinaryTreeRightSideView {
 

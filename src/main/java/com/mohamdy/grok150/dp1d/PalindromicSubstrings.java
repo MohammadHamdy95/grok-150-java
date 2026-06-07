@@ -5,7 +5,7 @@ package com.mohamdy.grok150.dp1d;
  *
  * <p>Complexity (optimal): Time O(n^2), Space O(1) (expand around center).
  *
- * @see <a href="https://neetcode.io/solutions/palindromic-substrings">https://neetcode.io/solutions/palindromic-substrings</a>
+ * @see <a href="https://neetcode.io/problems/palindromic-substrings/question">https://neetcode.io/problems/palindromic-substrings/question</a>
  */
 public class PalindromicSubstrings {
 

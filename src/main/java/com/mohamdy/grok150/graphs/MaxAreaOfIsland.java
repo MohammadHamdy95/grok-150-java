@@ -5,7 +5,7 @@ package com.mohamdy.grok150.graphs;
  *
  * <p>Complexity (optimal): Time O(m·n), Space O(m·n).
  *
- * @see <a href="https://neetcode.io/solutions/max-area-of-island">https://neetcode.io/solutions/max-area-of-island</a>
+ * @see <a href="https://neetcode.io/problems/max-area-of-island/question">https://neetcode.io/problems/max-area-of-island/question</a>
  */
 public class MaxAreaOfIsland {
 

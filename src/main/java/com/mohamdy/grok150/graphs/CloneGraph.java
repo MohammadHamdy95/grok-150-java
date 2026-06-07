@@ -5,7 +5,7 @@ package com.mohamdy.grok150.graphs;
  *
  * <p>Complexity (optimal): Time O(V + E), Space O(V).
  *
- * @see <a href="https://neetcode.io/solutions/clone-graph">https://neetcode.io/solutions/clone-graph</a>
+ * @see <a href="https://neetcode.io/problems/clone-graph/question">https://neetcode.io/problems/clone-graph/question</a>
  */
 public class CloneGraph {
 

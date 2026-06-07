@@ -5,7 +5,7 @@ package com.mohamdy.grok150.slidingwindow;
  *
  * <p>Complexity (optimal): Time O(n), Space O(1) (fixed alphabet).
  *
- * @see <a href="https://neetcode.io/solutions/permutation-in-string">https://neetcode.io/solutions/permutation-in-string</a>
+ * @see <a href="https://neetcode.io/problems/permutation-string/question">https://neetcode.io/problems/permutation-string/question</a>
  */
 public class PermutationInString {
 

@@ -5,7 +5,7 @@ package com.mohamdy.grok150.graphs;
  *
  * <p>Complexity (optimal): Time O(m·n), Space O(m·n).
  *
- * @see <a href="https://neetcode.io/solutions/number-of-islands">https://neetcode.io/solutions/number-of-islands</a>
+ * @see <a href="https://neetcode.io/problems/count-number-of-islands/question">https://neetcode.io/problems/count-number-of-islands/question</a>
  */
 public class NumberOfIslands {
 

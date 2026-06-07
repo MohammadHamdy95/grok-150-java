@@ -5,7 +5,7 @@ package com.mohamdy.grok150.dp2d;
  *
  * <p>Complexity (optimal): Time O(m·n), Space O(n).
  *
- * @see <a href="https://neetcode.io/solutions/distinct-subsequences">https://neetcode.io/solutions/distinct-subsequences</a>
+ * @see <a href="https://neetcode.io/problems/count-subsequences/question">https://neetcode.io/problems/count-subsequences/question</a>
  */
 public class DistinctSubsequences {
 

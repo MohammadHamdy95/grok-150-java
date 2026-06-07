@@ -5,7 +5,7 @@ package com.mohamdy.grok150.advancedgraphs;
  *
  * <p>Complexity (optimal): Time O(E log V), Space O(V + E).
  *
- * @see <a href="https://neetcode.io/solutions/network-delay-time">https://neetcode.io/solutions/network-delay-time</a>
+ * @see <a href="https://neetcode.io/problems/network-delay-time/question">https://neetcode.io/problems/network-delay-time/question</a>
  */
 public class NetworkDelayTime {
 

@@ -5,7 +5,7 @@ package com.mohamdy.grok150.arraysandhashing;
  *
  * <p>Complexity (optimal): Time O(n), Space O(n).
  *
- * @see <a href="https://neetcode.io/solutions/contains-duplicate">https://neetcode.io/solutions/contains-duplicate</a>
+ * @see <a href="https://neetcode.io/problems/duplicate-integer/question">https://neetcode.io/problems/duplicate-integer/question</a>
  */
 public class ContainsDuplicate {
 

@@ -7,7 +7,7 @@ import java.util.Arrays;
  *
  * <p>Complexity (optimal): Time O(n), Space O(1).
  *
- * @see <a href="https://neetcode.io/solutions/gas-station">https://neetcode.io/solutions/gas-station</a>
+ * @see <a href="https://neetcode.io/problems/gas-station/question">https://neetcode.io/problems/gas-station/question</a>
  */
 public class GasStation {
 

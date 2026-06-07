@@ -5,7 +5,7 @@ package com.mohamdy.grok150.slidingwindow;
  *
  * <p>Complexity (optimal): Time O(n + m), Space O(m).
  *
- * @see <a href="https://neetcode.io/solutions/minimum-window-substring">https://neetcode.io/solutions/minimum-window-substring</a>
+ * @see <a href="https://neetcode.io/problems/minimum-window-with-characters/question">https://neetcode.io/problems/minimum-window-with-characters/question</a>
  */
 public class MinimumWindowSubstring {
 

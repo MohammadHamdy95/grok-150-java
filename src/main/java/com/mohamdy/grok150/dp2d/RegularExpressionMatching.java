@@ -5,7 +5,7 @@ package com.mohamdy.grok150.dp2d;
  *
  * <p>Complexity (optimal): Time O(m·n), Space O(m·n).
  *
- * @see <a href="https://neetcode.io/solutions/regular-expression-matching">https://neetcode.io/solutions/regular-expression-matching</a>
+ * @see <a href="https://neetcode.io/problems/regular-expression-matching/question">https://neetcode.io/problems/regular-expression-matching/question</a>
  */
 public class RegularExpressionMatching {
 

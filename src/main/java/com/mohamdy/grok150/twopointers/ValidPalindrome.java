@@ -5,7 +5,7 @@ package com.mohamdy.grok150.twopointers;
  *
  * <p>Complexity (optimal): Time O(n), Space O(1).
  *
- * @see <a href="https://neetcode.io/solutions/valid-palindrome">https://neetcode.io/solutions/valid-palindrome</a>
+ * @see <a href="https://neetcode.io/problems/is-palindrome/question">https://neetcode.io/problems/is-palindrome/question</a>
  */
 public class ValidPalindrome {
 

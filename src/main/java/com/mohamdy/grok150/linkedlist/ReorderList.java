@@ -5,7 +5,7 @@ package com.mohamdy.grok150.linkedlist;
  *
  * <p>Complexity (optimal): Time O(n), Space O(1).
  *
- * @see <a href="https://neetcode.io/solutions/reorder-list">https://neetcode.io/solutions/reorder-list</a>
+ * @see <a href="https://neetcode.io/problems/reorder-linked-list/question">https://neetcode.io/problems/reorder-linked-list/question</a>
  */
 public class ReorderList {
 

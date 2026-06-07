@@ -5,7 +5,7 @@ package com.mohamdy.grok150.trees;
  *
  * <p>Complexity (optimal): Time O(n), Space O(h).
  *
- * @see <a href="https://neetcode.io/solutions/diameter-of-binary-tree">https://neetcode.io/solutions/diameter-of-binary-tree</a>
+ * @see <a href="https://neetcode.io/problems/binary-tree-diameter/question">https://neetcode.io/problems/binary-tree-diameter/question</a>
  */
 public class DiameterOfBinaryTree {
 

@@ -5,7 +5,7 @@ package com.mohamdy.grok150.mathgeometry;
  *
  * <p>Complexity (optimal): Time O(n), Space O(1) extra (excluding output).
  *
- * @see <a href="https://neetcode.io/solutions/plus-one">https://neetcode.io/solutions/plus-one</a>
+ * @see <a href="https://neetcode.io/problems/plus-one/question">https://neetcode.io/problems/plus-one/question</a>
  */
 public class PlusOne {
 

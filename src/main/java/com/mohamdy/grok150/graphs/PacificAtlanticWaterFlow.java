@@ -7,7 +7,7 @@ import java.util.List;
  *
  * <p>Complexity (optimal): Time O(m·n), Space O(m·n).
  *
- * @see <a href="https://neetcode.io/solutions/pacific-atlantic-water-flow">https://neetcode.io/solutions/pacific-atlantic-water-flow</a>
+ * @see <a href="https://neetcode.io/problems/pacific-atlantic-water-flow/question">https://neetcode.io/problems/pacific-atlantic-water-flow/question</a>
  */
 public class PacificAtlanticWaterFlow {
 

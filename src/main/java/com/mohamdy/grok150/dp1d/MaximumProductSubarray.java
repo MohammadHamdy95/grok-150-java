@@ -5,7 +5,7 @@ package com.mohamdy.grok150.dp1d;
  *
  * <p>Complexity (optimal): Time O(n), Space O(1).
  *
- * @see <a href="https://neetcode.io/solutions/maximum-product-subarray">https://neetcode.io/solutions/maximum-product-subarray</a>
+ * @see <a href="https://neetcode.io/problems/maximum-product-subarray/question">https://neetcode.io/problems/maximum-product-subarray/question</a>
  */
 public class MaximumProductSubarray {
 

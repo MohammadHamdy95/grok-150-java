@@ -5,7 +5,7 @@ package com.mohamdy.grok150.twopointers;
  *
  * <p>Complexity (optimal): Time O(n), Space O(1).
  *
- * @see <a href="https://neetcode.io/solutions/two-sum-ii-input-array-is-sorted">https://neetcode.io/solutions/two-sum-ii-input-array-is-sorted</a>
+ * @see <a href="https://neetcode.io/problems/two-integer-sum-ii/question">https://neetcode.io/problems/two-integer-sum-ii/question</a>
  */
 public class TwoSumNonOrder {
 

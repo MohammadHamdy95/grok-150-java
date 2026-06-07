@@ -5,7 +5,7 @@ package com.mohamdy.grok150.intervals;
  *
  * <p>Complexity (optimal): Time O(n log n), Space O(1).
  *
- * @see <a href="https://neetcode.io/solutions/non-overlapping-intervals">https://neetcode.io/solutions/non-overlapping-intervals</a>
+ * @see <a href="https://neetcode.io/problems/non-overlapping-intervals/question">https://neetcode.io/problems/non-overlapping-intervals/question</a>
  */
 public class NonOverlappingIntervals {
 

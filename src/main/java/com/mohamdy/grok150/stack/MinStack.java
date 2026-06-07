@@ -5,7 +5,7 @@ package com.mohamdy.grok150.stack;
  *
  * <p>Complexity (optimal): Time O(1) per operation, Space O(n).
  *
- * @see <a href="https://neetcode.io/solutions/min-stack">https://neetcode.io/solutions/min-stack</a>
+ * @see <a href="https://neetcode.io/problems/minimum-stack/question">https://neetcode.io/problems/minimum-stack/question</a>
  */
 public class MinStack {
 

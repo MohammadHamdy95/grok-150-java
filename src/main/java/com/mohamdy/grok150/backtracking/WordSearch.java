@@ -5,7 +5,7 @@ package com.mohamdy.grok150.backtracking;
  *
  * <p>Complexity (optimal): Time O(m·n·4^L), Space O(L) recursion depth.
  *
- * @see <a href="https://neetcode.io/solutions/word-search">https://neetcode.io/solutions/word-search</a>
+ * @see <a href="https://neetcode.io/problems/search-for-word/question">https://neetcode.io/problems/search-for-word/question</a>
  */
 public class WordSearch {
 

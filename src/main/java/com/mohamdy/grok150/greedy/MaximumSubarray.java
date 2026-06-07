@@ -6,7 +6,7 @@ package com.mohamdy.grok150.greedy;
  * <p>Complexity (optimal): Time O(n), Space O(1).
  * //[-2,1,-3,4,-1,2,1,-5,4]
  *
- * @see <a href="https://neetcode.io/solutions/maximum-subarray">https://neetcode.io/solutions/maximum-subarray</a>
+ * @see <a href="https://neetcode.io/problems/maximum-subarray/question">https://neetcode.io/problems/maximum-subarray/question</a>
  */
 public class MaximumSubarray {
 

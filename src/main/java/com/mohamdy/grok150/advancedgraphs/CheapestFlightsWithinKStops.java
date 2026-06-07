@@ -5,7 +5,7 @@ package com.mohamdy.grok150.advancedgraphs;
  *
  * <p>Complexity (optimal): Time O(k·E) (Bellman-Ford), Space O(V).
  *
- * @see <a href="https://neetcode.io/solutions/cheapest-flights-within-k-stops">https://neetcode.io/solutions/cheapest-flights-within-k-stops</a>
+ * @see <a href="https://neetcode.io/problems/cheapest-flight-path/question">https://neetcode.io/problems/cheapest-flight-path/question</a>
  */
 public class CheapestFlightsWithinKStops {
 

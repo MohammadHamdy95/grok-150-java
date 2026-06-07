@@ -5,7 +5,7 @@ package com.mohamdy.grok150.greedy;
  *
  * <p>Complexity (optimal): Time O(n), Space O(1).
  *
- * @see <a href="https://neetcode.io/solutions/merge-triplets-to-form-target-triplet">https://neetcode.io/solutions/merge-triplets-to-form-target-triplet</a>
+ * @see <a href="https://neetcode.io/problems/merge-triplets-to-form-target/question">https://neetcode.io/problems/merge-triplets-to-form-target/question</a>
  */
 public class MergeTripletsToFormTargetTriplet {
 

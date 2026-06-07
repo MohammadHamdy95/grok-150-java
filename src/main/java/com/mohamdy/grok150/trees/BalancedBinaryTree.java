@@ -5,7 +5,7 @@ package com.mohamdy.grok150.trees;
  *
  * <p>Complexity (optimal): Time O(n), Space O(h).
  *
- * @see <a href="https://neetcode.io/solutions/balanced-binary-tree">https://neetcode.io/solutions/balanced-binary-tree</a>
+ * @see <a href="https://neetcode.io/problems/balanced-binary-tree/question">https://neetcode.io/problems/balanced-binary-tree/question</a>
  */
 public class BalancedBinaryTree {
 

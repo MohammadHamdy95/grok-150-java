@@ -7,7 +7,7 @@ import java.util.List;
  *
  * <p>Complexity (optimal): Time O(m·n·4·3^(L-1)), Space O(total characters in words) (trie).
  *
- * @see <a href="https://neetcode.io/solutions/word-search-ii">https://neetcode.io/solutions/word-search-ii</a>
+ * @see <a href="https://neetcode.io/problems/search-for-word-ii/question">https://neetcode.io/problems/search-for-word-ii/question</a>
  */
 public class WordSearchII {
 

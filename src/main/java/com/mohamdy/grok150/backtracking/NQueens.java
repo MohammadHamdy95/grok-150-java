@@ -7,7 +7,7 @@ import java.util.List;
  *
  * <p>Complexity (optimal): Time O(n!), Space O(n^2) (board).
  *
- * @see <a href="https://neetcode.io/solutions/n-queens">https://neetcode.io/solutions/n-queens</a>
+ * @see <a href="https://neetcode.io/problems/n-queens/question">https://neetcode.io/problems/n-queens/question</a>
  */
 public class NQueens {
 

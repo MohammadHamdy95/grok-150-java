@@ -5,7 +5,7 @@ package com.mohamdy.grok150.advancedgraphs;
  *
  * <p>Complexity (optimal): Time O(n^2 log n), Space O(n^2).
  *
- * @see <a href="https://neetcode.io/solutions/min-cost-to-connect-all-points">https://neetcode.io/solutions/min-cost-to-connect-all-points</a>
+ * @see <a href="https://neetcode.io/problems/min-cost-to-connect-points/question">https://neetcode.io/problems/min-cost-to-connect-points/question</a>
  */
 public class MinCostToConnectAllPoints {
 

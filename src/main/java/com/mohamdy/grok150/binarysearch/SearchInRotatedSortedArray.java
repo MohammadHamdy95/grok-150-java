@@ -5,7 +5,7 @@ package com.mohamdy.grok150.binarysearch;
  *
  * <p>Complexity (optimal): Time O(log n), Space O(1).
  *
- * @see <a href="https://neetcode.io/solutions/search-in-rotated-sorted-array">https://neetcode.io/solutions/search-in-rotated-sorted-array</a>
+ * @see <a href="https://neetcode.io/problems/find-target-in-rotated-sorted-array/question">https://neetcode.io/problems/find-target-in-rotated-sorted-array/question</a>
  */
 public class SearchInRotatedSortedArray {
 

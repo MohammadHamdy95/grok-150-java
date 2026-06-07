@@ -5,7 +5,7 @@ package com.mohamdy.grok150.dp1d;
  *
  * <p>Complexity (optimal): Time O(n), Space O(1).
  *
- * @see <a href="https://neetcode.io/solutions/decode-ways">https://neetcode.io/solutions/decode-ways</a>
+ * @see <a href="https://neetcode.io/problems/decode-ways/question">https://neetcode.io/problems/decode-ways/question</a>
  */
 public class DecodeWays {
 

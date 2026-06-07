@@ -7,7 +7,7 @@ import java.util.List;
  *
  * <p>Complexity (optimal): Time O(2^t) (t = target/min candidate), Space O(t) recursion depth.
  *
- * @see <a href="https://neetcode.io/solutions/combination-sum">https://neetcode.io/solutions/combination-sum</a>
+ * @see <a href="https://neetcode.io/problems/combination-target-sum/question">https://neetcode.io/problems/combination-target-sum/question</a>
  */
 public class CombinationSum {
 

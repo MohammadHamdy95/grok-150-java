@@ -5,7 +5,7 @@ package com.mohamdy.grok150.dp1d;
  *
  * <p>Complexity (optimal): Time O(n), Space O(1).
  *
- * @see <a href="https://neetcode.io/solutions/climbing-stairs">https://neetcode.io/solutions/climbing-stairs</a>
+ * @see <a href="https://neetcode.io/problems/climbing-stairs/question">https://neetcode.io/problems/climbing-stairs/question</a>
  */
 public class ClimbingStairs {
 

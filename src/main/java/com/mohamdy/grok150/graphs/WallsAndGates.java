@@ -5,7 +5,7 @@ package com.mohamdy.grok150.graphs;
  *
  * <p>Complexity (optimal): Time O(m·n), Space O(m·n).
  *
- * @see <a href="https://neetcode.io/solutions/walls-and-gates">https://neetcode.io/solutions/walls-and-gates</a>
+ * @see <a href="https://neetcode.io/problems/islands-and-treasure/question">https://neetcode.io/problems/islands-and-treasure/question</a>
  */
 public class WallsAndGates {
 

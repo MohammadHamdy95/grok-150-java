@@ -5,7 +5,7 @@ package com.mohamdy.grok150.binarysearch;
  *
  * <p>Complexity (optimal): Time O(log(m·n)), Space O(1).
  *
- * @see <a href="https://neetcode.io/solutions/search-a-2d-matrix">https://neetcode.io/solutions/search-a-2d-matrix</a>
+ * @see <a href="https://neetcode.io/problems/search-2d-matrix/question">https://neetcode.io/problems/search-2d-matrix/question</a>
  */
 public class SearchA2DMatrix {
 

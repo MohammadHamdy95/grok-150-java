@@ -9,7 +9,7 @@ import java.util.Set;
  *
  * <p>Complexity (optimal): Time O(n), Space O(n).
  *
- * @see <a href="https://neetcode.io/solutions/longest-consecutive-sequence">https://neetcode.io/solutions/longest-consecutive-sequence</a>
+ * @see <a href="https://neetcode.io/problems/longest-consecutive-sequence/question">https://neetcode.io/problems/longest-consecutive-sequence/question</a>
  */
 public class LongestConsecutiveSequence {
 

@@ -5,7 +5,7 @@ package com.mohamdy.grok150.graphs;
  *
  * <p>Complexity (optimal): Time O(V + E), Space O(V + E).
  *
- * @see <a href="https://neetcode.io/solutions/course-schedule-ii">https://neetcode.io/solutions/course-schedule-ii</a>
+ * @see <a href="https://neetcode.io/problems/course-schedule-ii/question">https://neetcode.io/problems/course-schedule-ii/question</a>
  */
 public class CourseScheduleII {
 

@@ -5,7 +5,7 @@ package com.mohamdy.grok150.bitmanipulation;
  *
  * <p>Complexity (optimal): Time O(1) (32-bit), Space O(1).
  *
- * @see <a href="https://neetcode.io/solutions/reverse-bits">https://neetcode.io/solutions/reverse-bits</a>
+ * @see <a href="https://neetcode.io/problems/reverse-bits/question">https://neetcode.io/problems/reverse-bits/question</a>
  */
 public class ReverseBits {
 

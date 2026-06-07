@@ -5,7 +5,7 @@ package com.mohamdy.grok150.graphs;
  *
  * <p>Complexity (optimal): Time O(V + E), Space O(V + E).
  *
- * @see <a href="https://neetcode.io/solutions/graph-valid-tree">https://neetcode.io/solutions/graph-valid-tree</a>
+ * @see <a href="https://neetcode.io/problems/valid-tree/question">https://neetcode.io/problems/valid-tree/question</a>
  */
 public class GraphValidTree {
 

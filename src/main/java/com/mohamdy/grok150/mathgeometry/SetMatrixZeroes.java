@@ -5,7 +5,7 @@ package com.mohamdy.grok150.mathgeometry;
  *
  * <p>Complexity (optimal): Time O(m·n), Space O(1).
  *
- * @see <a href="https://neetcode.io/solutions/set-matrix-zeroes">https://neetcode.io/solutions/set-matrix-zeroes</a>
+ * @see <a href="https://neetcode.io/problems/set-zeroes-in-matrix/question">https://neetcode.io/problems/set-zeroes-in-matrix/question</a>
  */
 public class SetMatrixZeroes {
 

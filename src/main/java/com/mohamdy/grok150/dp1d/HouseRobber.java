@@ -5,7 +5,7 @@ package com.mohamdy.grok150.dp1d;
  *
  * <p>Complexity (optimal): Time O(n), Space O(1).
  *
- * @see <a href="https://neetcode.io/solutions/house-robber">https://neetcode.io/solutions/house-robber</a>
+ * @see <a href="https://neetcode.io/problems/house-robber/question">https://neetcode.io/problems/house-robber/question</a>
  */
 public class HouseRobber {
 

@@ -5,7 +5,7 @@ package com.mohamdy.grok150.intervals;
  *
  * <p>Complexity (optimal): Time O(n log n + q log q), Space O(n + q).
  *
- * @see <a href="https://neetcode.io/solutions/minimum-interval-to-include-each-query">https://neetcode.io/solutions/minimum-interval-to-include-each-query</a>
+ * @see <a href="https://neetcode.io/problems/minimum-interval-including-query/question">https://neetcode.io/problems/minimum-interval-including-query/question</a>
  */
 public class MinimumIntervalToIncludeEachQuery {
 

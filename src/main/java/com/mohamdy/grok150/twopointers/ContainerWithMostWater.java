@@ -5,7 +5,7 @@ package com.mohamdy.grok150.twopointers;
  *
  * <p>Complexity (optimal): Time O(n), Space O(1).
  *
- * @see <a href="https://neetcode.io/solutions/container-with-most-water">https://neetcode.io/solutions/container-with-most-water</a>
+ * @see <a href="https://neetcode.io/problems/max-water-container/question">https://neetcode.io/problems/max-water-container/question</a>
  */
 public class ContainerWithMostWater {
 

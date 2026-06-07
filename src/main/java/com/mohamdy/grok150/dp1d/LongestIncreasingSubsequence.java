@@ -5,7 +5,7 @@ package com.mohamdy.grok150.dp1d;
  *
  * <p>Complexity (optimal): Time O(n log n), Space O(n).
  *
- * @see <a href="https://neetcode.io/solutions/longest-increasing-subsequence">https://neetcode.io/solutions/longest-increasing-subsequence</a>
+ * @see <a href="https://neetcode.io/problems/longest-increasing-subsequence/question">https://neetcode.io/problems/longest-increasing-subsequence/question</a>
  */
 public class LongestIncreasingSubsequence {
 

@@ -7,7 +7,7 @@ import java.util.List;
  *
  * <p>Complexity (optimal): Time O(n), Space O(n).
  *
- * @see <a href="https://neetcode.io/solutions/binary-tree-level-order-traversal">https://neetcode.io/solutions/binary-tree-level-order-traversal</a>
+ * @see <a href="https://neetcode.io/problems/level-order-traversal-of-binary-tree/question">https://neetcode.io/problems/level-order-traversal-of-binary-tree/question</a>
  */
 public class BinaryTreeLevelOrderTraversal {
 

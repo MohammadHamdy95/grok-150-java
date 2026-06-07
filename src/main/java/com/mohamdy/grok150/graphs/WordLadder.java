@@ -7,7 +7,7 @@ import java.util.List;
  *
  * <p>Complexity (optimal): Time O(N·L^2) (N words, L length), Space O(N·L).
  *
- * @see <a href="https://neetcode.io/solutions/word-ladder">https://neetcode.io/solutions/word-ladder</a>
+ * @see <a href="https://neetcode.io/problems/word-ladder/question">https://neetcode.io/problems/word-ladder/question</a>
  */
 public class WordLadder {
 

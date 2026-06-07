@@ -5,7 +5,7 @@ package com.mohamdy.grok150.dp1d;
  *
  * <p>Complexity (optimal): Time O(n^2), Space O(1) (expand around center).
  *
- * @see <a href="https://neetcode.io/solutions/longest-palindromic-substring">https://neetcode.io/solutions/longest-palindromic-substring</a>
+ * @see <a href="https://neetcode.io/problems/longest-palindromic-substring/question">https://neetcode.io/problems/longest-palindromic-substring/question</a>
  */
 public class LongestPalindromicSubstring {
 

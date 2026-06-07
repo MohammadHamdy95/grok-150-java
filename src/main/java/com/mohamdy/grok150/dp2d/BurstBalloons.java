@@ -5,7 +5,7 @@ package com.mohamdy.grok150.dp2d;
  *
  * <p>Complexity (optimal): Time O(n^3), Space O(n^2).
  *
- * @see <a href="https://neetcode.io/solutions/burst-balloons">https://neetcode.io/solutions/burst-balloons</a>
+ * @see <a href="https://neetcode.io/problems/burst-balloons/question">https://neetcode.io/problems/burst-balloons/question</a>
  */
 public class BurstBalloons {
 
