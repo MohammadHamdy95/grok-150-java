@@ -1,0 +1,15 @@
+package com.mohamdy.grok150.dp2d;
+
+/**
+ * LeetCode 494. Target Sum &mdash; Medium
+ *
+ * <p>Complexity (optimal): Time O(n·sum), Space O(sum).
+ *
+ * @see <a href="https://leetcode.com/problems/target-sum/">https://leetcode.com/problems/target-sum/</a>
+ */
+public class TargetSum {
+
+    public int findTargetSumWays(int[] nums, int target) {
+        throw new UnsupportedOperationException("Not implemented yet.");
+    }
+}

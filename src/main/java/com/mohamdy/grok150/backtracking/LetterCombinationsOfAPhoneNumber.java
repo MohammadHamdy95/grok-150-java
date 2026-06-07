@@ -1,0 +1,17 @@
+package com.mohamdy.grok150.backtracking;
+
+import java.util.List;
+
+/**
+ * LeetCode 17. Letter Combinations of a Phone Number &mdash; Medium
+ *
+ * <p>Complexity (optimal): Time O(n·4^n), Space O(n) recursion depth.
+ *
+ * @see <a href="https://leetcode.com/problems/letter-combinations-of-a-phone-number/">https://leetcode.com/problems/letter-combinations-of-a-phone-number/</a>
+ */
+public class LetterCombinationsOfAPhoneNumber {
+
+    public List<String> letterCombinations(String digits) {
+        throw new UnsupportedOperationException("Not implemented yet.");
+    }
+}
