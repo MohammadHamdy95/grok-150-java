@@ -1,5 +1,6 @@
 package com.mohamdy.grok150.greedy;
 
+import java.util.HashMap;
 import java.util.List;
 
 /**
@@ -12,6 +13,14 @@ import java.util.List;
 public class PartitionLabels {
 
     public List<Integer> partitionLabels(String s) {
-        throw new UnsupportedOperationException("Not implemented yet.");
+
+        HashMap<Character, Integer> characterIntegerHashMap = new HashMap<>();
+
+        for (int i = 0; i < s.length(); i++) {
+            characterIntegerHashMap.put(s.charAt(i), i);
+        }
+
+
+
     }
 }

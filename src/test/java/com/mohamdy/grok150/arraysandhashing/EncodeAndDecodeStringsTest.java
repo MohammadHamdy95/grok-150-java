@@ -2,20 +2,20 @@ package com.mohamdy.grok150.arraysandhashing;
 
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.Disabled;
-import java.util.List;
+import java.util.*;
+import static com.mohamdy.grok150.support.Cases.*;
 import static org.junit.jupiter.api.Assertions.*;
 
 @Disabled("Solution not implemented yet.")
 class EncodeAndDecodeStringsTest {
-    EncodeAndDecodeStrings sol = new EncodeAndDecodeStrings();
+    private final EncodeAndDecodeStrings sol = new EncodeAndDecodeStrings();
 
-    @Test void roundTrip() {
-        List<String> in = List.of("neet", "code", "love", "you");
-        assertEquals(in, sol.decode(sol.encode(in)));
-    }
+    private void roundTrip(List<String> in) { assertEquals(in, sol.decode(sol.encode(in))); }
 
-    @Test void withDelimiters() {
-        List<String> in = List.of("we#", "say", ":#yes");
-        assertEquals(in, sol.decode(sol.encode(in)));
-    }
+    @Test void simple() { roundTrip(List.of("neet", "code", "love", "you")); }
+    @Test void withDelimiterChars() { roundTrip(List.of("we#", "say", ":#yes", "###")); }
+    @Test void emptyList() { roundTrip(List.of()); }
+    @Test void emptyStrings() { roundTrip(List.of("", "", "")); }
+    @Test void numbersAndColons() { roundTrip(List.of("12:34", "5:6:7", "")); }
+    @Test void single() { roundTrip(List.of("solo")); }
 }

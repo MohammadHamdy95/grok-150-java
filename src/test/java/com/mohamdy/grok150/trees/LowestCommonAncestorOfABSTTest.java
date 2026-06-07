@@ -2,17 +2,25 @@ package com.mohamdy.grok150.trees;
 
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.Disabled;
+import com.mohamdy.grok150.support.Trees;
+import java.util.*;
+import static com.mohamdy.grok150.support.Cases.*;
 import static org.junit.jupiter.api.Assertions.*;
 
 @Disabled("Solution not implemented yet.")
 class LowestCommonAncestorOfABSTTest {
-    LowestCommonAncestorOfABST sol = new LowestCommonAncestorOfABST();
+    private final LowestCommonAncestorOfABST sol = new LowestCommonAncestorOfABST();
 
-    @Test void example() {
-        TreeNode root = new TreeNode(6,
-                new TreeNode(2, new TreeNode(0), new TreeNode(4)),
-                new TreeNode(8, new TreeNode(7), new TreeNode(9)));
-        assertEquals(6, sol.lowestCommonAncestor(root, root.left, root.right).val);
-        assertEquals(2, sol.lowestCommonAncestor(root, root.left, root.left.right).val);
+    @Test void splitAtRoot() {
+        TreeNode root = Trees.build(6, 2, 8, 0, 4, 7, 9);
+        assertEquals(6, sol.lowestCommonAncestor(root, Trees.find(root, 2), Trees.find(root, 8)).val);
+    }
+    @Test void ancestorIsOneNode() {
+        TreeNode root = Trees.build(6, 2, 8, 0, 4, 7, 9);
+        assertEquals(2, sol.lowestCommonAncestor(root, Trees.find(root, 2), Trees.find(root, 4)).val);
+    }
+    @Test void deepNodes() {
+        TreeNode root = Trees.build(6, 2, 8, 0, 4, 7, 9, null, null, 3, 5);
+        assertEquals(2, sol.lowestCommonAncestor(root, Trees.find(root, 0), Trees.find(root, 5)).val);
     }
 }

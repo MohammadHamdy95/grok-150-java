@@ -14,8 +14,16 @@ JUnit tests for everything.
   intentionally **not** created.
 - Gradle `rootProject.name` and the GitHub repo were renamed `blind-75-java` →
   `grok-150-java` (remote: `MohammadHamdy95/grok-150-java`).
-- Latest `./gradlew test`: **301 tests — 25 passed, 3 failed (the documented bug below),
-  273 disabled.**
+- **Test suite hardened (all classes).** Every test was rewritten with robust cases —
+  normal, edge (empty/single/duplicates/negatives/overflow/boundaries), and tricky inputs.
+  Shared test helpers live in `src/test/.../support/`: `Cases` (order-insensitive
+  comparison for subsets/permutations/groups/coordinates via `canon`/`canonS`/`sortRows`)
+  and `Trees` (level-order tree builder + node finder); linked-list tests use `ListNodes`.
+  Collection results are compared order-independently; in-place problems assert the mutated
+  structure; design classes run multi-step operation sequences.
+- Latest `./gradlew test`: **710 tests — 40 passed, 5 failed (all the documented
+  `LongestSubstringWithoutRepeating` bug), 665 disabled (placeholders).** The bug now
+  surfaces in 5 assertions instead of 3 because more cases exercise it.
 - New design classes use canonical LeetCode names: `MinStack`, `TimeMap` (Time Based
   Key-Value Store), `LRUCache`, `KthLargest` (Kth Largest in a Stream), `Twitter`
   (Design Twitter), `DetectSquares`.
