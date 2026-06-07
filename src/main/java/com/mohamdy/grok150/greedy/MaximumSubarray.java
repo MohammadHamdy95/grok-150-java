@@ -10,6 +10,14 @@ package com.mohamdy.grok150.greedy;
 public class MaximumSubarray {
 
     public int maxSubArray(int[] nums) {
-        throw new UnsupportedOperationException("Not implemented yet.");
+        int runningMax = -1001;
+        int overAllMax = -1001;
+        for (int i = 0; i < nums.length; i++) {
+            runningMax = Math.max(nums[i], runningMax + nums[i]);
+            overAllMax = Math.max(overAllMax, runningMax);
+        }
+
+        return overAllMax;
+
     }
 }
