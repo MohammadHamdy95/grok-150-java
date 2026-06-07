@@ -19,6 +19,16 @@ JUnit tests for everything.
 - New design classes use canonical LeetCode names: `MinStack`, `TimeMap` (Time Based
   Key-Value Store), `LRUCache`, `KthLargest` (Kth Largest in a Stream), `Twitter`
   (Design Twitter), `DetectSquares`.
+- **Base package renamed** `com.mohamdy.blind75` → `com.mohamdy.grok150` (all 150+ source
+  and test files; directories moved with `git mv`). No cross-package imports existed, so
+  only `package` declarations changed.
+- **Every problem class now carries a class-level Javadoc** with the LeetCode number,
+  title, difficulty, optimal time/space complexity, and a clickable problem link. Example:
+  `LeetCode 1. Two Sum — Easy` / `Complexity (optimal): Time O(n), Space O(n)` / `@see` link.
+  `uncategorized/MinLength` and the data-structure helpers are intentionally not annotated.
+  Complexities describe the *expected optimal* solution (not the unimplemented bodies); a
+  few use standard symbols — n/m = input sizes, h = tree height, V/E = graph vertices/edges,
+  L = word length.
 
 ### New classes added by category (72)
 - **Arrays & Hashing:** `ValidSudoku`
@@ -63,7 +73,7 @@ The **3 failures are intentional and documented** (a genuine bug in an existing 
 ---
 
 ## 1. Categories (packages) created
-Base package: `com.mohamdy.blind75`
+Base package: `com.mohamdy.grok150`
 
 | Package | Category |
 |---|---|
