@@ -1,9 +1,5 @@
 package com.mohamdy.grok150.arraysandhashing;
 
-import java.util.HashMap;
-import java.util.HashSet;
-import java.util.Set;
-
 /**
  * LeetCode 1. Two Sum &mdash; Easy
  *
@@ -12,27 +8,8 @@ import java.util.Set;
  * @see <a href="https://neetcode.io/problems/two-integer-sum/question">https://neetcode.io/problems/two-integer-sum/question</a>
  */
 public class TwoSum {
-    static void main() {
-        TwoSum twoSum = new TwoSum();
-        int[] nums = new int[] {2,7,11,15};
-
-        twoSum.twoSum(nums, 9);
-    }
 
     public int[] twoSum(int[] nums, int target) {
-        HashMap<Integer, Integer> integerSet = new HashMap<>();
-        for (int i = 0; i < nums.length; i++) {
-            integerSet.put(nums[i], i);
-        }
-
-        for (int i = 0;i < nums.length; i++) {
-            int compliment = target - nums[i];
-
-            if (integerSet.containsKey(compliment) && i != integerSet.get(compliment)) {
-                return new int[] {i, integerSet.get(compliment)};
-            }
-        }
-        return null;
+        throw new UnsupportedOperationException("Not implemented yet.");
     }
-
 }

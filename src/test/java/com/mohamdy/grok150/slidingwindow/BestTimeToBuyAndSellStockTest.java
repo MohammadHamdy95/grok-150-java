@@ -7,6 +7,7 @@ import static com.mohamdy.grok150.support.Cases.*;
 import static org.junit.jupiter.api.Assertions.*;
 
 //@Disabled("Solution not implemented yet.")
+@Disabled("Solution not implemented yet.")
 class BestTimeToBuyAndSellStockTest {
     private final BestTimeToBuyAndSellStock sol = new BestTimeToBuyAndSellStock();
 

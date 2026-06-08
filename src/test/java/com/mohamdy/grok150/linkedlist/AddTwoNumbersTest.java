@@ -7,6 +7,7 @@ import static com.mohamdy.grok150.support.Cases.*;
 import static org.junit.jupiter.api.Assertions.*;
 
 //@Disabled("Solution not implemented yet.")
+@Disabled("Solution not implemented yet.")
 class AddTwoNumbersTest {
     private final AddTwoNumbers sol = new AddTwoNumbers();
 

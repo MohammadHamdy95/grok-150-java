@@ -10,10 +10,6 @@ package com.mohamdy.grok150.dp1d;
 public class ClimbingStairs {
 
     public int climbStairs(int n) {
-        for (int i = 0;i<n;i++) {
-
-        }
-        return 0;
-
+        throw new UnsupportedOperationException("Not implemented yet.");
     }
 }

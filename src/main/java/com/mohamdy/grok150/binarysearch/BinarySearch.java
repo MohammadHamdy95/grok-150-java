@@ -10,40 +10,6 @@ package com.mohamdy.grok150.binarysearch;
 public class BinarySearch {
 
     public int search(int[] nums, int target) {
-        if (nums.length == 1 && nums[0] != target) {
-            return -1;
-        }
-        int l = -1;
-        int r = nums.length;
-        int  totalLoop = 0;
-        int middle = (l + r) / 2;// 0 + 100 / 2 = 50, 50 + 100 / 2 = 75
-        while (l != r) {
-            totalLoop++;
-            if (totalLoop == 20) {
-                break;
-            }
-            if (nums[middle] > target) {
-                int oldMiddle = middle;
-                r = middle;
-                middle = (r + l) / 2;
-                if (oldMiddle == middle) {
-                    return -1;
-                }
-                continue;
-            }
-            if (nums[middle] < target) {
-                int oldMiddle = middle;
-                l = middle;
-                middle = (r + l) / 2;
-                if (oldMiddle == middle) {
-                    return -1;
-                }
-                continue;
-            }
-            if (nums[middle] == target) {
-                return middle;
-            }
-        }
-        return -1;
+        throw new UnsupportedOperationException("Not implemented yet.");
     }
 }

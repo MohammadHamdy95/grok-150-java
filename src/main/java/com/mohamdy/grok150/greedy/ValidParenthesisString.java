@@ -1,8 +1,5 @@
 package com.mohamdy.grok150.greedy;
 
-import java.util.ArrayDeque;
-import java.util.Queue;
-
 /**
  * LeetCode 678. Valid Parenthesis String &mdash; Medium
  *
@@ -13,8 +10,6 @@ import java.util.Queue;
 public class ValidParenthesisString {
 
     public boolean checkValidString(String s) {
-
-        Queue<Character> queue = new ArrayDeque<>();
-        return false;
+        throw new UnsupportedOperationException("Not implemented yet.");
     }
 }

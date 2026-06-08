@@ -10,17 +10,6 @@ package com.mohamdy.grok150.slidingwindow;
 public class BestTimeToBuyAndSellStock {
 
     public int maxProfit(int[] prices) {
-        int bestProfit = 0;
-        for (int i = 0; i < prices.length-1; i++) {
-            int currentProfit = 0;
-            int j = i + 1;
-            while (j < prices.length) {
-                currentProfit = prices[j] - prices[i];
-                bestProfit = Math.max(bestProfit, currentProfit);
-                j++;
-            }
-        }
-        return bestProfit;
-
+        throw new UnsupportedOperationException("Not implemented yet.");
     }
 }
