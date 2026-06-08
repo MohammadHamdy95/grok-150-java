@@ -4,3 +4,6 @@ out/
 .idea/
 *.iml
 .DS_Store
+
+# Backups created by tools/reset_solutions.py
+.solution_backups/
