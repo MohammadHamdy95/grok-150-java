@@ -10,34 +10,6 @@ package com.mohamdy.grok150.linkedlist;
 public class RemoveNthNodeFromEndOfList {
 
     public ListNode removeNthFromEnd(ListNode head, int n) {
-        int size = 4;
-        ListNode curent = head;
-        while (curent.next != null) {
-//            if (index == n-1){
-//                curent.next = curent.next.next;
-//                return head;
-//            }
-            curent = curent.next;
-            size++;
-        }
-        ListNode tail = curent;
-        System.out.println("Tail: "+tail.val);
-        int indexToRemove = size - n;
-        int index = 0;
-        curent = head;
-        while (index <= indexToRemove) {
-            if (index == indexToRemove-1) {
-                System.out.println(curent.next.val);
-                curent.next = curent.next.next;
-            }
-            System.out.println(curent.val);
-            curent = curent.next;
-            index++;
-        }
-
-        System.out.println(size);
-        return head;
-
-//        throw new UnsupportedOperationException("Not implemented yet.");
+        throw new UnsupportedOperationException("Not implemented yet.");
     }
 }
