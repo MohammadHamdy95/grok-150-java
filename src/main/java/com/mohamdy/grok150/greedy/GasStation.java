@@ -10,6 +10,28 @@ package com.mohamdy.grok150.greedy;
 public class GasStation {
 
     public int canCompleteCircuit(int[] gas, int[] cost) {
-        throw new UnsupportedOperationException("Not implemented yet.");
+        int totalGasInSystem = 0;
+        int totalCostInSystem = 0;
+
+        for (int i = 0; i < gas.length; i++) {
+            totalGasInSystem += gas[i];
+            totalCostInSystem += cost[i];
+        }
+
+        if (totalCostInSystem > totalGasInSystem) {
+            return -1;
+        }
+
+        int currentTank = 0;
+        int ans = 0;
+        for (int i = 0; i < gas.length; i++) {
+            currentTank += gas[i] - cost[i];
+
+            if (currentTank < 0) {
+                currentTank = 0;
+                ans = i + 1;
+            }
+        }
+        return ans;
     }
 }
